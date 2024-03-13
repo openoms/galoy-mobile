@@ -7,7 +7,7 @@
         "addressNotAvailable": "This {bankName: string} address is already taken.",
         "somethingWentWrong": "Something went wrong. Please try again later.",
         "merchantTitle": "For merchants",
-        "yourCashRegister": "Your Lightning Cash Register",
+        "yourCashRegister": "Your Point of Sale",
         "yourPaycode": "Your Paycode",
         "copiedAddressToClipboard": "Copied {bankName: string} address to clipboard",
         "copiedPaycodeToClipboard": "Copied Paycode to clipboard",
